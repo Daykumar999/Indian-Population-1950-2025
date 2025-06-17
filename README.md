@@ -36,6 +36,6 @@ Worldometer - India Population Data
 
 
 6. 📊 Screenshots
-Show what the Dashboard looks like. - ![Alt text](https://github.com/Daykumar999/Indian-Population-1950-2025/blob/main/Snapshot%20of%20Dashboard.png)
+Show what the Dashboard looks like. -
 ![Dashboard Preview](https://github.com/Daykumar999/Indian-Population-1950-2025/blob/main/Snapshot%20of%20Dashboard.png)
 
